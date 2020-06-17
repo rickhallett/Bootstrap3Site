@@ -10,23 +10,15 @@
     "gulp-uglify": "^3.0.1",
     "require-dir": "^1.2.0"
   },
-  "description": "My boilerplate for front-end projects",
+  "description": "",
   "main": "gulpfile.js",
   "scripts": {
     "dev": "gulp",
     "build": "gulp sass && gulp concatjs && gulp cssmin && gulp jsmin"
   },
-  "author": {
-    "name": "Anderson Nascimento",
-    "url": "http://www.theandersonn.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/theandersonn/gulp-bootstrap-3"
-  },
   "license": "MIT",
   "dependencies": {
     "bootstrap-sass": "^3.3.7",
-    "jquery": "^2.2.4"
+    "jquery": "^3.0.0"
   }
 }
