@@ -1,6 +1,6 @@
 (function ($) {
   'use strict';
 
-  // your code here!
+  console.log($('h1').html())
 
 }(jQuery));
